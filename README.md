@@ -10,7 +10,6 @@ I'm a **full-stack developper** in training at the training center **TECHNIFUTUR
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 ## Languages I'm currently learning
 
@@ -50,6 +49,7 @@ I'm a **full-stack developper** in training at the training center **TECHNIFUTUR
 - Willingness to learn
 - Problemm solving
 - Effective communication
+-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 ## Human languages
 
