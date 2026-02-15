@@ -1,7 +1,7 @@
 # Hello! :wave: I'm Nora!
 
 **FR**
-Je suis une **développeuse FullStack** en formation au centre **Technifutur** (**Belgiuque**)
+Je suis une **développeuse FullStack** en formation au centre **Technifutur** (**Belgique**)
 
 **EN**
 I'm a **full-stack developper** in training at the training center **TECHNIFUTUR®** (**Belgium**).
