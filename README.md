@@ -17,7 +17,6 @@ I'm a **full-stack developper** in training at the training center **TECHNIFUTUR
 
 ## Languages I'm currently learning
 
-![C#](https://img.shields.io/badge/C%23-%239179E4?plastic&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?plastic&logo=gnu-bash&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?plastic&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?plastic&logo=nodedotjs&logoColor=white)
