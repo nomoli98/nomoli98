@@ -10,6 +10,7 @@ I'm a **full-stack developper** in training at the training center **TECHNIFUTUR
 
 ## Where can you find me
 norapetry@proton.me
+
 https://www.linkedin.com/in/norapetry/
 
 ---
