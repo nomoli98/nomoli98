@@ -8,6 +8,12 @@ I'm a **full-stack developper** in training at the training center **TECHNIFUTUR
 
 ---
 
+## Where can you find me
+norapetry@proton.me
+https://www.linkedin.com/in/norapetry/
+
+---
+
 ## Languages I use a lot
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
